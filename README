@@ -1,0 +1,16 @@
+This repository provides supplementary material for the paper "Automatically
+Discovering Human-readable Rules to Predict Effective Compiler Settings for
+Embedded Software" by Craig Blackmore, Oliver Ray and Kerstin Eder.
+
+CProgol4.4 is required to run the Progol scripts (it can be obtained from
+http://www.doc.ic.ac.uk/~shm/progol.html).
+
+This study used benchmark programs from the Bristol/Embecosm Embedded Benchmark
+Suite (BEEBS), which is available at http://beebs.eu.
+
+Directory structure:
+  examples.pl - examples for the predicate badFlag/2
+  hotIR.pl    - IR for each program (extracted using Milepost GCC)
+  progs.pl    - programs used in these experiments
+  train.pl    - training script
+  rules.pl    - output from running 'progol train.pl rules.pl'
