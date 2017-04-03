@@ -1,0 +1,2 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"sglib-rbtree",0.002220263859118734,0.1808809523809524,0.012274724507435412,0.004022420059933197,3.051580258603314,74922,"1","","-O3"

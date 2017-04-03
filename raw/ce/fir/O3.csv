@@ -1,0 +1,2 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"fir",0.0032673126276050292,0.25761904761904764,0.012682729238392903,0.0041551931102703325,3.0522570823345077,43947,"4294967295","","-O3"

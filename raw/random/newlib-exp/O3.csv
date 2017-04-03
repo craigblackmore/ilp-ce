@@ -1,0 +1,2 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"newlib-exp",0.005622446490781648,0.42245238095238097,0.013309065694235992,0.0045051842077685565,2.954189556598905,72209,"4294967295","","-O3"

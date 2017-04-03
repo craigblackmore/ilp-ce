@@ -14,3 +14,4 @@ Directory structure:
   progs.pl    - programs used in these experiments
   train.pl    - training script
   rules.pl    - output from running 'progol train.pl rules.pl'
+  raw/        - raw iterative compilation data

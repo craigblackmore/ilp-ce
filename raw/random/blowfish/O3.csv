@@ -1,0 +1,2 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"blowfish",0.0028587677787882937,0.22848809523809524,0.01251167057876396,0.004070178987782004,3.0739856378709036,75362,"4294967295","","-O3"

@@ -1,0 +1,25 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"nettle-cast128",0.014037495224986757,0.9911428571428571,0.014162938393615928,0.0046367744892260015,3.054591821366478,71406,"1","../../../src/nettle-cast128/cast128.c: In function 'cast128_set_key':
+../../../src/nettle-cast128/cast128.c:68:29: warning: 'w' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define B0(x) ( (uint8_t) (x>>24) )
+                             ^
+../../../src/nettle-cast128/cast128.c:802:12: note: 'w' was declared here
+   uint32_t w;
+            ^
+","-O1"
+"nettle-cast128",0.014045057540876524,0.9910714285714286,0.01417158959079433,0.004639890730574324,3.054403593046171,71406,"1","../../../src/nettle-cast128/cast128.c: In function 'cast128_set_key':
+../../../src/nettle-cast128/cast128.c:68:29: warning: 'w' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define B0(x) ( (uint8_t) (x>>24) )
+                             ^
+../../../src/nettle-cast128/cast128.c:802:12: note: 'w' was declared here
+   uint32_t w;
+            ^
+","-O1"
+"nettle-cast128",0.01405440875325884,0.9911785714285715,0.014179492130265106,0.004642931690380319,3.0541128331002505,71406,"1","../../../src/nettle-cast128/cast128.c: In function 'cast128_set_key':
+../../../src/nettle-cast128/cast128.c:68:29: warning: 'w' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define B0(x) ( (uint8_t) (x>>24) )
+                             ^
+../../../src/nettle-cast128/cast128.c:802:12: note: 'w' was declared here
+   uint32_t w;
+            ^
+","-O1"

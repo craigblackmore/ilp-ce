@@ -1,0 +1,2 @@
+"program","energy(J)","time(s)","avg_power(W)","avg_current(A)","avg_voltage(V)","size","correct","warnings","baseflags"
+"stb_perlin",0.004357350109219551,0.3276428571428571,0.013299084702217946,0.004357834577508448,3.0517679251485177,73565,"4294967295","","-O3"
